@@ -1,0 +1,1232 @@
+Uri: https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i|Grand+Hotel|Open+Sans:300,400,600,700,800|Raleway:100,200,300,400,500,600,700,800,900|Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i|Ubuntu:300,300i,400,400i,500,500i,700,700i&subset=latin-ext
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\droidserif\v19\tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbK2oqRg1oM3QBjjcaDkOr4nAfcGw.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\droidserif\v19\tDbK2oqRg1oM3QBjjcaDkOr4nAfcGw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\droidserif\v19\tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbX2oqRg1oM3QBjjcaDkOr4lLz5CwOnTQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\droidserif\v19\tDbX2oqRg1oM3QBjjcaDkOr4lLz5CwOnTQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/grandhotel/v20/7Au7p_IgjDKdCRWuR1azplQKGFk.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\grandhotel\v20\7Au7p_IgjDKdCRWuR1azplQKGFk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18E.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtFyPN4Q.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\ubuntu\v20\4iCp6KVjbNBYlgoKejYHtFyPN4Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftVyPN4Q.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\ubuntu\v20\4iCp6KVjbNBYlgoKejZftVyPN4Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyPN4Q.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\ubuntu\v20\4iCp6KVjbNBYlgoKejZPslyPN4Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej70l0w.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\ubuntu\v20\4iCu6KVjbNBYlgoKej70l0w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://hotcoffee-html.themerex.net/404.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\404.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/?storefront=envato-elements
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\index.htm
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/about.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\about.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/blog-sidebar.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/blog.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\blog.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/calendar.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\calendar.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/clients.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\clients.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/cobbles.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\cobbles.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/contacts.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\contacts.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/css/core.animation.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\core.animation.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/core.messages.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\core.messages.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/core.portfolio.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\core.portfolio.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/custom.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\custom.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/doc-style.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\doc-style.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/fontello/css/fontello.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fontello\css\fontello.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/fontello/font/fontello.eot?57321217
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fontello\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hotcoffee-html.themerex.net/css/fontello/font/fontello.svg?57321217
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fontello\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://hotcoffee-html.themerex.net/css/fontello/font/fontello.ttf?57321217
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fontello\font\fontello.ttf
+Content Type: application/octet-stream
+
+Uri: https://hotcoffee-html.themerex.net/css/fontello/font/fontello.woff?57321217
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fontello\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://hotcoffee-html.themerex.net/css/fonts/egfont.ttf?85610117
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fonts\egfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://hotcoffee-html.themerex.net/css/fonts/egfont.woff?85610117
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fonts\egfont.woff
+Content Type: font/woff
+
+Uri: https://hotcoffee-html.themerex.net/css/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fonts\WooCommerce.ttf
+Content Type: application/octet-stream
+
+Uri: https://hotcoffee-html.themerex.net/css/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://hotcoffee-html.themerex.net/css/responsive.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\responsive.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/shortcodes.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\shortcodes.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/skin.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\skin.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/skin.responsive.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\skin.responsive.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/css/style.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\css (1)\style.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/grid.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\grid.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/images/7_support-updated-tablet.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\7_support-updated-tablet.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/7_support.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\7_support.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/alternative-logo.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\alternative-logo.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/americano-180x180.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\americano-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/americano-400x400.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\americano-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/americano-600x600.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\americano-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/americano.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\americano.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/audio_image-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\audio_image-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/audio_image.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\audio_image.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/bg_04.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\bg_04.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/bg_home_alter.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\bg_home_alter.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/bg_home_cup_go.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\bg_home_cup_go.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/bg_home_paralax.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\bg_home_paralax.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/bg_main_slider.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\bg_main_slider.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/blank.gif
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\blank.gif
+Content Type: image/gif
+
+Uri: https://hotcoffee-html.themerex.net/images/cappuccino-400x400.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\cappuccino-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/cappuccino-90x90.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\cappuccino-90x90.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/chat-1-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\chat-1-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/chat-1-110x110.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\chat-1-110x110.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/chat-2-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\chat-2-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/chat-2-110x110.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\chat-2-110x110.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/chat-3-100x100.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\chat-3-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/chat_1-100x100.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\chat_1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/chat_2-100x100.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\chat_2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_1-370x220.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_1-370x220.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_2-370x220.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_2-370x220.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_3-370x220.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_3-370x220.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_4-370x220.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_4-370x220.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_5-370x220.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_5-370x220.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_6-370x220.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_6-370x220.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_small_1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_small_1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_small_2.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_small_2.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_small_3.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_small_3.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_small_4.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_small_4.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/clients_small_5.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\clients_small_5.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/coffee-pot.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\coffee-pot.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/Commercial DEMO - 10.mp3
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\Commercial DEMO - 10.mp3
+Content Type: audio/mpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/controls.svg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\controls.svg
+Content Type: image/svg+xml
+
+Uri: https://hotcoffee-html.themerex.net/images/croissant-180x180.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\croissant-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/croissant.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\croissant.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/esgbox_overlay.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\esgbox_overlay.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/esgbox_sprite.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\esgbox_sprite.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/favicon.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\favicon.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/ice-coffee-180x180.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\ice-coffee-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/inmotion.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\inmotion.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/loader.gif
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\loader.gif
+Content Type: image/gif
+
+Uri: https://hotcoffee-html.themerex.net/images/loader.svg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://hotcoffee-html.themerex.net/images/logo.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\logo.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/logo_footer.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\logo_footer.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/main_bg_1.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\main_bg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/main_cup.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\main_cup.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/main_slider_el_2.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\main_slider_el_2.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/main_slider_el_3.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\main_slider_el_3.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/main_slider_el_5.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\main_slider_el_5.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/main_slider_el_6.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\main_slider_el_6.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/mediatemple.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\mediatemple.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/panini-180x180.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\panini-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/panini-400x400.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\panini-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/panini.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\panini.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-1-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-1-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-1-90x90.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-1-90x90.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-10-370x246.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-10-370x246.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-10-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-10-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-10-90x90.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-10-90x90.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-10.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-10.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-11-370x246.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-11-370x246.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-11-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-11-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-11.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-11.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-12-90x90.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-12-90x90.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-12.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-12.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-13.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-13.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-14-370x246.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-14-370x246.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-14-370x370.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-14-370x370.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-14-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-14-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-14.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-14.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-2-90x90.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-2-90x90.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-2.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-3-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-3-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-4-1170x659.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-4-1170x659.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-4-370x246.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-4-370x246.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-4-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-4-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-4.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-5-370x202.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-5-370x202.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-5-370x370.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-5-370x370.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-5-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-5-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-5.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-6-370x347.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-6-370x347.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-6-370x370.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-6-370x370.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-6-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-6-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-6.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-7-370x306.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-7-370x306.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-7-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-7-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-7.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-7.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-8-370x340.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-8-370x340.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-8-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-8-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-8.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-8.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-9-370x334.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-9-370x334.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-9-770x434.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-9-770x434.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/post-9.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\post-9.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/second_slider_el_1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\second_slider_el_1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/second_slider_el_2.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\second_slider_el_2.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/second_slider_el_3.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\second_slider_el_3.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/second_slider_el_4.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\second_slider_el_4.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_1-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_1-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_2-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_2-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_3-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_3-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_4-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_4-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_5-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_5-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_6-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_6-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_7-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_7-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_8-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_8-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/services_9-300x281.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\services_9-300x281.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/slider_1_el_1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\slider_1_el_1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/slider_1_el_4.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\slider_1_el_4.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/slider_2_el_1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\slider_2_el_1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/slider_2_el_2.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\slider_2_el_2.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/slider_3_el_1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\slider_3_el_1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-1-2-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-1-2-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-1-2.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-1-2.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-2-1-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-2-1-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-2-1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-2-1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-3-1-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-3-1-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-3-1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-3-1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-4-1-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-4-1-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-4-1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-4-1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-5-1-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-5-1-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-5-1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-5-1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-6-1-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-6-1-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-6-1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-6-1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-7-1-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-7-1-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-7-1.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-7-1.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-8-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-8-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-8.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-8.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-9-2-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-9-2-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-9-2.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-9-2.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-bar-2-hover.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-bar-2-hover.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/table-bar-2.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\table-bar-2.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/team_raul-370x370.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\team_raul-370x370.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/team_raul-566x319.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\team_raul-566x319.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/team_scott-370x370.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\team_scott-370x370.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/team_sebastian-370x370.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\team_sebastian-370x370.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/top_bg_1.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\top_bg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/top_bg_3.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\top_bg_3.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/top_bg_4.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\top_bg_4.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/top_bg_5.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\top_bg_5.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/top_bg_6.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\top_bg_6.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/top_bg_7.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\top_bg_7.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/transparent.png
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\transparent.png
+Content Type: image/png
+
+Uri: https://hotcoffee-html.themerex.net/images/video_image.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\video_image.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/waffles-400x400.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\waffles-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/images/waffles-90x90.jpg
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\images\waffles-90x90.jpg
+Content Type: image/jpeg
+
+Uri: https://hotcoffee-html.themerex.net/index.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\index.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/comment-reply.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/core.init.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\core.init.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/core.messages.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\core.messages.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/core.reviews.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\core.reviews.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/core.utils.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\core.utils.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/custom.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\custom.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/embed.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\embed.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/forms-api.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\forms-api.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/init.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\init.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/jquery.slidemenu.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\jquery.slidemenu.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/shortcodes.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\shortcodes.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/custom/social-share.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\custom\social-share.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/animations.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\animations.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/functions.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\functions.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/jquery.tooltipster.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\jquery.tooltipster.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/plugin.booked.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\plugin.booked.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/responsive.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\responsive.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/spin.jquery.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\spin.jquery.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/spin.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\spin.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/styles.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\styles.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/tooltipster-light.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\tooltipster-light.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/booked/tooltipster.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\booked\tooltipster.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/chart.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\chart.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/comp/comp.min.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\comp\comp.min.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/comp/comp_front.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\comp\comp_front.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/esg/jquery.themepunch.essential.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\esg\jquery.themepunch.essential.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/esg/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\esg\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/esg/lightbox.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\esg\lightbox.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/esg/lightbox.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\esg\lightbox.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/esg/settings.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\esg\settings.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/fcc8474e79.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\fcc8474e79.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/jquery.hoverdir.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\jquery.hoverdir.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/jquery/jquery.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/magnific/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\magnific\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/magnific/magnific-popup.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\magnific\magnific-popup.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/mediaelement/mediaelement-and-player.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/mediaelement/mediaelement.min.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\mediaelement\mediaelement.min.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/mediaelement/mediaelement.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\mediaelement\mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/mediaelement/mediaelementplayer.min.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\mediaelement\mediaelementplayer.min.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/modernizr.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/prettyPhoto/jquery.prettyPhoto.init.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\prettyPhoto\jquery.prettyPhoto.init.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/prettyPhoto/jquery.prettyPhoto.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\prettyPhoto\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/prettyPhoto/prettyPhoto.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\prettyPhoto\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/revslider/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\revslider\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/revslider/extensions/revolution.extension.navigation.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\revslider\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/revslider/extensions/revolution.extension.parallax.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\revslider\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/revslider/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\revslider\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/revslider/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\revslider\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/revslider/settings.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\revslider\settings.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/superfish.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\superfish.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/swiper/swiper.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\swiper\swiper.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/swiper/swiper.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\swiper\swiper.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/ui/core.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/ui/datepicker.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\ui\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/ui/effect-fade.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\ui\effect-fade.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/ui/effect.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\ui\effect.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/ui/tabs.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\ui\tabs.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/ui/widget.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/add-to-cart.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/cart-fragments.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/jquery.blockUI.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/jquery.cookie.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/plugin.woocommerce.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\plugin.woocommerce.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/single-product.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/woocommerce-add-to-cart.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\woocommerce-add-to-cart.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/woocommerce-layout.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/woocommerce-smallscreen.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/woocommerce.css
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\woocommerce.css
+Content Type: text/css
+
+Uri: https://hotcoffee-html.themerex.net/js/vendor/woo/woocommerce.min.js
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\js\vendor\woo\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://hotcoffee-html.themerex.net/masonry-2-columns.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\masonry-2-columns.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/masonry-3-columns.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\masonry-3-columns.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/masonry.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\masonry.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/menu.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\menu.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/post-formats.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\post-formats.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/shop-list.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\shop-list.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/shop.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\shop.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/shortcodes.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\shortcodes.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/single-post.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\single-post.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/single-post.html?replytocom=2
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\single-post-1.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/single-post.html?replytocom=3
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\single-post-2.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/single-post.html?replytocom=4
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\single-post-3.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/single-product.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\single-product.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/single-team.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\single-team.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/support.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\support.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/tables.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\tables.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/team.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\team.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/testimonials.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\testimonials.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/typography.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\typography.html
+Content Type: text/html
+
+Uri: https://hotcoffee-html.themerex.net/video.html
+File Name: C:\Downloaded Web Sites\hotcoffee-html.themerex.net\video.html
+Content Type: text/html
+
