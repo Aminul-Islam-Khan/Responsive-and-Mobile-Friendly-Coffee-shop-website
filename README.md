@@ -1,0 +1,43 @@
+<img src="https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/526477799_2065822390493939_7034535375358362290_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGXjI9QgJWDnZuoI-yAXN6tBT2E8yPLB4IFPYTzI8sHggv_OzPUxFlyAfXNggbDYCPfR_kCEA2DEUavNPQzUroh&_nc_ohc=8Rr8CPTTnrYQ7kNvwG7MIW4&_nc_oc=AdleiYyJMM53HFNL44lX0D1Pyn0-XxqkbiViQAWjzAbR7k75R3sRgkrOF6ZdN5Nrn5U&_nc_zt=23&_nc_ht=scontent.fdac31-2.fna&_nc_gid=bUEnY-a2BwxVbaSereQoeQ&oh=00_AfRThPSfHFYnFw3YUO2E0bPASnOenkEIdwwBqbr1qkO7_w&oe=6892CFD9" class="logo-img" alt="">
+ <a href="https://www.freelancer.com/u/devAminulkhan" target="_blank">@ devAminulkhan</a> 
+<span  color:#7ce8ff;">This repository contains a portfolio of professional Web Design, Web Development, and WordPress projects created by Aminul Islam Khan.. It includes theme development, plugin customization, responsive design, and dynamic website functionality — all crafted with performance and user experience in mind. It also includes modern, responsive UI/UX designs, fully functional websites, and custom WordPress themes/plugins tailored for performance, accessibility, and client needs.</span> <br>
+ <img width="150" height="150"  align="left" alt="git hub" src="https://github.com/user-attachments/assets/4933ecf8-6599-4089-8c68-9d80e0a76187"/> <br><br><br><br><br>
+ <h1 align="left">Hi, I'm MD. Aminul Islam Khan</h1>
+<h3 align="center">A passionate developer who loves crafting clean, responsive websites and customizing WordPress themes to bring creative ideas to life. With a strong focus on front-end development, I enjoy transforming designs into interactive digital experiences using HTML, CSS, JavaScript, Bootstrap, and modern frameworks.</h3>
+
+ <a href="https://www.freelancer.com/u/devAminulkhan" target="_blank">@ devAminulkhan</a> 
+- 🔭 I’m currently working on [freelancer.com](https://www.freelancer.com/u/devAminulkhan)
+
+- 🌱 I’m currently learning **php, mysql,react**
+
+- 👯 I’m looking to collaborate on [freelancer.com](https://www.freelancer.com/u/devAminulkhan)
+
+- 🤝 I’m looking for help with [freelancer.com](https://www.freelancer.com/u/devAminulkhan)
+
+- 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/devAminulkhan)
+
+- 📝 I regularly write articles on [https://github.com/Aminul-Islm-Khan](https://github.com/Aminul-Islm-Khan)
+
+- 💬 Ask me about **Website Design & Development**
+
+- 📫 How to reach me **aminulgc501@gmail.com**
+
+- 📄 Know about my experiences [https://l.messenger.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fcomm%2Fmynetwork%2Fdiscovery-see-all%3Fusecase%3DPEOPLE_FOLLOWS%26followMember%3Dmd-aminul-islam-khan-469abb2b2&h=AT36eNu98ImIyJt4_OFxb1QA7gabUVIUAn15NNE5zFshweWANqvIT6r6tTEAjDYdLRGjqrjY4MVlvJ-yRTxKGSNG8eBVQPArLs2L1-7ow2U58NAGBs4X8MyqxpWbVt54VQKzbw](https://l.messenger.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fcomm%2Fmynetwork%2Fdiscovery-see-all%3Fusecase%3DPEOPLE_FOLLOWS%26followMember%3Dmd-aminul-islam-khan-469abb2b2&h=AT36eNu98ImIyJt4_OFxb1QA7gabUVIUAn15NNE5zFshweWANqvIT6r6tTEAjDYdLRGjqrjY4MVlvJ-yRTxKGSNG8eBVQPArLs2L1-7ow2U58NAGBs4X8MyqxpWbVt54VQKzbw)
+
+- ⚡ Fun fact **I don’t just write code — I style pixels with passion! When I’m not building websites, I’m probably tweaking my own portfolio layout… for the 27th time**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/devaminulkhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devaminulkhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md aminul islam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md aminul islam khan" height="30" width="40" /></a>
+<a href="https://fb.com/uzzal khan (md aminul islam khan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uzzal khan (md aminul islam khan)" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/aminul2999islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aminul2999islam/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/md aminul islam khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md aminul islam khan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<a href="https://www.freelancer.com/u/devAminulkhan" target="_blank" >Click To Connect With Me</a>
+
+
